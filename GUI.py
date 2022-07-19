@@ -1,9 +1,9 @@
 '''*****************************************************************************************************************************************************************
-* File Name: GUI.py 
+* [File Name]: GUI.py 
 *
-* Description: GUI for medical robot
+* [Description]: GUI for medical robot
 *
-* Author: Mahmoud Khaled
+* [Author]: Mahmoud Khaled
           Mohamed Adel
           Mohamed Ragab
 *
