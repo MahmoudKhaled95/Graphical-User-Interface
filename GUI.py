@@ -4,8 +4,8 @@
 * [Description]: GUI for medical robot
 *
 * [Author]: Mahmoud Khaled
-          Mohamed Adel
-          Mohamed Ragab
+            Mohamed Adel
+            Mohamed Ragab
 *
 ********************************************************************************************************************************************************************'''
 
